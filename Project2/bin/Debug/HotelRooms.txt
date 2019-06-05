@@ -1,0 +1,5 @@
+SuitName,Description,Max Patrons,Cost p/p/p/n
+Hibuscus Suit,Timeless romance Luxury Suite,2,350
+Acacia Garden Suite,African elegance tatch & rock,2,350
+Bouganvillea Suite,Luxurious indulgence Queen size,2,350
+Mango Grove Suite, Wild and Fantastic King size,2,450

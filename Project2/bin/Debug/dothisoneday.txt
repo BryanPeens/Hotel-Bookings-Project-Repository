@@ -1,0 +1,25 @@
+
+                                                            HOTEL PERFECT
+                                                            ==================
+                                                            HIBUSCUS SUIT
+                                                            ==================
+
+Name : Michelle                                     Surname : Barnard
+ID Number : 9001234567891                                  Telephone Number : 1234567891
+                                                                Address :
+                                                                test here 12
+
+The number of Patrons is 1 @ R350 Per Person
+Number of Days : 20
+
+Basic : R7000
+
+Additional Options
+Dinner, Bed and Breakfast     @ R180 p/p/p/d
+24 Roses     @ R120
+Champagne     @ R60
+
+
+Total Cost is : R10780
+
+
